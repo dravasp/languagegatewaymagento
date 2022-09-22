@@ -5,7 +5,7 @@
  */
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::LANGUAGE,
-    'dravasp_en_de',
+    'ActionOne_LanguageGateway',
     __DIR__
 );
 ?>
