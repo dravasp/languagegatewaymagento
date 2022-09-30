@@ -2,6 +2,7 @@
     "name": "dravasp/languagegatewaymagento",
     "description": "German (DE) language internationalisation optimised for AWS Bitnami 2.4x",
     "version": "1.0.0",
+    "license": ["MIT"],
     "minimum-stability": "stable",
     "require": {
 			"magento/framework": "~103.0.4",
@@ -45,10 +46,6 @@
         "magento/module-checkout-agreements": "~100.4.4"
     },
     "type": "magento2-language",
-    "license": [
-		"OSL-3.0",
-        "AFL-3.0"
-		],
     "autoload": {
         "files": ["registration.php"],
         "psr-4": {
