@@ -1,6 +1,17 @@
 German (DE) language internationalisation Gateway Module for Magento 2.4x
 ==========================================================================
 
+[![GitHub issues](https://img.shields.io/github/issues/dravasp/languagegatewaymagento?logo=github&style=flat-square)](https://github.com/dravasp/languagegatewaymagento/issues)
+[![GitHub forks](https://img.shields.io/github/forks/dravasp/languagegatewaymagento?logo=github&style=flat-square)](https://github.com/dravasp/languagegatewaymagento/network)
+[![GitHub stars](https://img.shields.io/github/stars/dravasp/languagegatewaymagento?logo=github&style=flat-square)](https://github.com/dravasp/languagegatewaymagento/stargazers)
+![Amazon Web Services on Bitnami](https://img.shields.io/badge/Adobe%20Magento%20Commerce-on%20awsCloud%20Bitnami-blue)
+![Github language](https://img.shields.io/github/languages/code-size/dravasp/languagegatewaymagento?style=flat-square)
+![Packagist](https://img.shields.io/packagist/dt/dravasp/languagegatewaymagento?style=flat-square)
+![Packagist](https://img.shields.io/packagist/stars/dravasp/languagegatewaymagento?style=flat-square)
+![YouTube Channel](https://img.shields.io/youtube/channel/subscribers/UCZ4IFVouPuErDC8aq4KyFIQ)
+![Github Followers](https://img.shields.io/github/followers/dravasp?style=social)
+![Brand Website](https://img.shields.io/website?down_color=not%20running&down_message=site%20under%20maintainence&style=flat-square&up_message=active%20and%20running&url=https%3A%2F%2Fweskyprint.com)
+
 Making en_DE (German) Language available to Magento 2.4x Bitnami
 
 Install using SSH
